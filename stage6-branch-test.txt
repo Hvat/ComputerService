@@ -1,1 +1,0 @@
-Stage 6 branch switching test fixture
